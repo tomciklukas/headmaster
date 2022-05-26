@@ -1,0 +1,18 @@
+{
+  "name": "headmaster",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomciklukas/headmaster.git"
+  },
+  "author": "Lukas Tomcik <tomciklukas@gmail.com> (https://tomciklukas.dev)",
+  "license": "MPL 2.0",
+  "bugs": {
+    "url": "https://github.com/tomciklukas/headmaster/issues"
+  },
+  "homepage": "https://github.com/tomciklukas/headmaster#readme"
+}
